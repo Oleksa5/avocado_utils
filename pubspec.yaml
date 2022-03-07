@@ -1,6 +1,7 @@
 name: avocado_utils
 description: Collection of utility libraries providing functionalities commonly used in various projects.
 version: 0.1.0
+repository: https://github.com/Oleksa5/avocado_utils
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
